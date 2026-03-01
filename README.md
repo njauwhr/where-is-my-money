@@ -3,7 +3,6 @@
 
 一个用 Flutter 编写的个人记账应用示例，用于记录收入/支出、按分类管理账目，并用图表与日历视图做统计展示。
 
-本仓库按你的要求只提供：
 
 - `README.md`
 - `app-release.apk`
@@ -19,7 +18,3 @@
 ## 下载 APK
 
 - `app-release.apk`
-
-## 说明
-
-之前推送失败的原因是 GitHub 的 Push Protection 识别到提交里包含了个人访问令牌（PAT）字符串，会自动拦截推送。
